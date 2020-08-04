@@ -91,3 +91,7 @@ Execute a aplicação:
 $ npm run start:dev
 ```
 
+## Desenvolvedores
+[João Fonseca](https://github.com/joaopf4)
+[Cazuza Barberino](https://github.com/cazuzabarberino)
+[Igor Delesposti](https://github.com/igordelesposti)
