@@ -59,7 +59,6 @@ Esse endpoint deve receber um tipo ("normal" ou "evento") e retornar todos os po
 Você deve analisar e pensar quais são os endpoints que necessitam do token de autenticação
 Lembre-se de que o Backend deve ser muito conciso. Isso significa que você deve prever a maior parte dos erros que possam acontecer e já se precaver contra eles. (Não se preocupe muito com essa parte, mas, se der tempo, foque nisso!)
 
-## Desafios<br>
 ## Curtir Post
 
 Essa requisição deve receber somente o id do post e retornar uma mensagem de sucesso ou erro. Lembre-se de que um usuário não pode curtir o mesmo post duas vezes.
